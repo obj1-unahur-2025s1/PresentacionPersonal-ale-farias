@@ -4,8 +4,8 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+- Mi nombre es: Alejandro DAvid Farias
+- Vivo en Rafael Castillo 
 
 
 ### Otra Información
